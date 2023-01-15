@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.card{
+  background-color: black;
+  padding: .5em;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: .3em;
+}
+
+p{
+  padding: .5em;
+}
